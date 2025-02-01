@@ -1,0 +1,304 @@
+.seki-home__mainvisual-nav-title {
+  font-size: 1.5rem;
+}
+
+.seki-home__nav-list-item:nth-child(1) .text p,
+.seki-home__nav-list-item:nth-child(4) .text p {
+  font-size: 1rem;
+}
+
+.seki-home__news-content-button-link {
+  font-size: 1.4rem;
+  width: 200px;
+  padding-left: 1em;
+}
+
+.seki-home__recruit-content-button-link {
+  font-size: 1.4rem;
+  width: 200px;
+  padding-left: 1em;
+}
+
+.seki-home__nav-list-item:nth-child(1) .text .button,
+.seki-home__nav-list-item:nth-child(4) .text .button {
+  width: 220px;
+}
+
+.seki-footer__nav-list-item {
+  padding: 0 1em;
+}
+
+.seki-shop__search-form-text-box h3 {
+  font-size: 2rem;
+}
+
+.seki-shop__banner-title {
+  font-size: 3rem;
+  padding-top: 1em;
+}
+
+.seki-bills__banner-title {
+  font-size: 3rem;
+}
+
+.seki-bills__detail-text {
+  font-size: 1.3rem;
+}
+
+.seki-topic__banner-title,
+.seki-topics__banner-title {
+  font-size: 3rem;
+}
+
+.seki-shop__search-form-text-box p {
+  font-size: 1.5rem;
+}
+
+.seki-services__banner-title {
+  font-size: 3rem;
+}
+
+.seki-services__list-item p {
+  font-size: 1.2rem;
+}
+
+.seki-dispensingpharmacy__banner-title {
+  font-size: 3rem;
+  padding-top: 1em;
+}
+
+.seki-dispensingpharmacy__sekiyakkyoku-text {
+  font-size: 1.3rem;
+}
+
+.seki-dispensingpharmacy__internet-text {
+  font-size: 1.3rem;
+}
+
+.seki-dispensingpharmacy__internet-title {
+  font-size: 2.3rem;
+}
+
+.seki-dispensingpharmacy__internet-title::before {
+  left: 47%;
+}
+
+.seki-outline__banner-title {
+  font-size: 3rem;
+  padding-top: 1em;
+}
+
+.seki-outline__detail-contact-wrapper h4 {
+  font-size: 1.6rem;
+}
+
+.seki-outline__detail-contact p a {
+  font-size: 1.6rem;
+}
+
+.seki-outline-nav ul li a span.ja {
+  font-size: 1.3rem;
+}
+
+.seki-outline-nav ul li a {
+  padding: 1em 3px;
+}
+
+.seki-outline-company__banner-title {
+  font-size: 3rem;
+  padding-top: 1em;
+}
+
+.seki-outline-greeting__banner-title {
+  font-size: 3rem;
+  padding-top: 1em;
+}
+
+.seki-outline-greeting__top-block2 {
+  padding-bottom: 70px;
+}
+
+.seki-outline-greeting__top-block2 > div img:nth-child(2) {
+  bottom: -60px;
+}
+
+.seki-outline-organization__banner-title {
+  font-size: 3rem;
+  padding-top: 1em;
+}
+
+.seki-outline-organization__detail-graph p {
+  font-size: 1.5rem;
+}
+
+.seki-outline-business__banner-title {
+  font-size: 3rem;
+  padding-top: 1em;
+}
+
+.seki-outline-business__concept-header h2 {
+  font-size: 2rem;
+}
+
+.seki-outline-business__concept-header p {
+  font-size: 1.5rem;
+}
+
+.seki-outline-business__concept-body h4 {
+  font-size: 2rem;
+}
+
+.seki-outline-business__concept-body h5 {
+  font-size: 1.7rem;
+}
+
+.seki-outline-business__concept-body ul li img {
+  max-width: 70%;
+}
+
+.seki-outline-business__concept-body ul li {
+  text-align: center;
+}
+
+.seki-outline-business__drugstore-header h2 {
+  font-size: 2.3rem;
+}
+
+.seki-outline-business__drugstore-header p {
+  font-size: 1.5rem;
+}
+
+.seki-outline-business__pharmacy-header h2 {
+  font-size: 2.3rem;
+}
+
+.seki-outline-business__pharmacy-header p {
+  font-size: 1.5rem;
+}
+
+.seki-recruiting__banner-title {
+  font-size: 3rem;
+}
+
+.seki-recruiting__main-header h2 {
+  font-size: 2rem;
+}
+
+.seki-recruiting__main-header p {
+  font-size: 1.5rem;
+}
+
+.seki-recruiting__detail-header p {
+  font-size: 1.5rem;
+}
+
+.seki-recruiting__contact-body h4 {
+  font-size: 2rem;
+}
+
+.seki-recruiting__contact-body table th span {
+  font-size: 1.6rem;
+}
+
+.seki-tulip_point__banner-title {
+  font-size: 3rem;
+}
+
+.seki-tulip_point__block1-image {
+  padding: 0 15px;
+}
+
+.seki-tulip_point__block2-image {
+  padding: 0 15px;
+}
+
+.seki-senior_day__banner-title {
+  font-size: 3rem;
+}
+
+.seki-senior_day__top-title {
+  font-size: 1.8rem;
+}
+
+.seki-senior_day__top-image img {
+  padding: 0 15px;
+}
+
+.seki-rakuten_point__banner-title {
+  font-size: 3rem;
+}
+
+.seki-rakuten_point__top-title {
+  font-size: 1.8rem;
+}
+
+.seki-rakuten_point__bottom-text p {
+  font-size: 1.3rem;
+}
+
+.seki-cashless__banner-title {
+  font-size: 3rem;
+}
+
+.seki-cashless__payment-title {
+  font-size: 1.8rem;
+}
+
+.seki-point_exchange__banner-title {
+  font-size: 3rem;
+}
+
+.seki-point_exchange__top-title {
+  font-size: 1.6rem;
+}
+
+.seki-point_exchange__bottom-text a::after {
+  right: 5%;
+}
+
+.seki-line_official__banner-title {
+  font-size: 3rem;
+}
+
+.seki-line_official__banner-title span {
+  font-size: 30px;
+}
+
+.seki-line_official__top-title {
+  font-size: 1.8rem;
+}
+
+.seki-outline-privacypolicy__banner-title {
+  font-size: 3rem;
+  padding-top: 1em;
+}
+
+.seki-outline-pointpolicy__banner-title {
+  font-size: 3rem;
+}
+
+.seki-sitemap__banner-title {
+  font-size: 3rem;
+}
+
+.seki-outline-contact__banner-title {
+  font-size: 3rem;
+  padding-top: 1em;
+}
+
+.seki-shohosen__main-title {
+  font-size: 1.9rem;
+}
+
+.seki-shohosen__main-text {
+  font-size: 1.5rem;
+}
+
+.seki-column__banner {
+  height: 150px;
+}
+
+.seki-columns__detail-title {
+  font-size: 1.8rem;
+}
+
